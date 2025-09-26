@@ -1,0 +1,2 @@
+# KyousabaCDN
+なんちゃってCDN
